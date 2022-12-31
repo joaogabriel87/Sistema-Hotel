@@ -1,0 +1,15 @@
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\bin\Debug\net7.0\Sistema de resrvar de um hotel.exe
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\bin\Debug\net7.0\Sistema de resrvar de um hotel.deps.json
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\bin\Debug\net7.0\Sistema de resrvar de um hotel.runtimeconfig.json
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\bin\Debug\net7.0\Sistema de resrvar de um hotel.dll
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\bin\Debug\net7.0\Sistema de resrvar de um hotel.pdb
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.csproj.AssemblyReference.cache
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.AssemblyInfoInputs.cache
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.AssemblyInfo.cs
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.csproj.CoreCompileInputs.cache
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.dll
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\refint\Sistema de resrvar de um hotel.dll
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.pdb
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\Sistema de resrvar de um hotel.genruntimeconfig.cache
+C:\Users\joaga\OneDrive\Área de Trabalho\Sistema de resrvar de um hotel\obj\Debug\net7.0\ref\Sistema de resrvar de um hotel.dll
